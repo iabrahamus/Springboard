@@ -1,6 +1,8 @@
 # Decision Tree Speciality Coffee
 
-![Project Image](project-image-url)
+<p align="center">
+  <img width="750" height="350" src=https://user-images.githubusercontent.com/70409971/141403262-ccdcca16-0538-4f0e-b357-5989d9ed90ed.jpg>
+</p>
 
  > The objective of this project is to help RR diner coffee make decision whether it should strike a deal with Hidden Farm coffee (China based Coffee farm) and continue buying coffee from Hidden Farm or strike the deal out and stop buying coffee from Hidden Farm. 
 ---
@@ -27,7 +29,7 @@
 Everything is quality assesse in USA store, before being shipped out. Customers further away from the USA flagship store have higher shipping charges.
 
 ### **RR Diner workflow** ###
-RR Diner Coffee **-->** buys coffee from farmers **-->** processes it on site **-->** brings it back to the USA**-->** roasts it, packages it, markets it, and ships it (only in bulk, and after quality assurance) to customers internationally. These customers all own coffee shops in major cities like New York, Paris, London, Hong Kong, Tokyo, and Berlin.
+RR Diner Coffee **-->** buys coffee from farmers **-->** processes it on site **-->** brings it back to the USA **-->** roasts it, packages it, markets it, and ships it (only in bulk, and after quality assurance) to customers internationally. These customers all own coffee shops in major cities like New York, Paris, London, Hong Kong, Tokyo, and Berlin.
 
 ### **Current issue** ###
 
