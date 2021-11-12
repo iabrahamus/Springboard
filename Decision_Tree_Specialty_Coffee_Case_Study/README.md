@@ -26,7 +26,7 @@
 - 1 in USA (flagshap store)
 Everything is quality assesse in USA store, before being shipped out. Customers further away from the USA flagship store have higher shipping charges.
 
-###**RR Diner workflow**###
+### **RR Diner workflow** ###
 RR Diner Coffee **-->** buys coffee from farmers **-->** processes it on site **-->** brings it back to the USA**-->** roasts it, packages it, markets it, and ships it (only in bulk, and after quality assurance) to customers internationally. These customers all own coffee shops in major cities like New York, Paris, London, Hong Kong, Tokyo, and Berlin.
 
 ### **Current issue** ###
