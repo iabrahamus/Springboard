@@ -2,4 +2,6 @@
 |<code>Directory Name</code> | <code> Project topic </code> | <code> Project Summary </code>|
 | :--- | :--- | :---|
 |Decision_Tree_Specialty_Coffee_Case_Study|Decision Tree Classifier|[Build a decision tree classifier to help RR diner coffee](https://github.com/iabrahamus/Springboard/tree/main/Decision_Tree_Specialty_Coffee_Case_Study)|
-|App_Case_Study|Hypothesis and statistical testing|[Did Apple Store apps receive better reviews than Google Play apps? Conduct hypothesis and statistical testing (p-value,permutation test) to de](https://github.com/iabrahamus/Springboard/tree/main/Apps_Case_Study)|
+|App_Case_Study|Hypothesis and statistical testing|[Did Apple Store apps receive better reviews than Google Play apps? Conduct hypothesis and statistical testing (p-value,permutation test)](https://github.com/iabrahamus/Springboard/tree/main/Apps_Case_Study)|
+|Bayesian Optimizatin Case Study|Bayesian methods of probabilities|[Demonstrate use of Bayesian methods of probabilities for hyper-parameter optimization (In addition to random and grid search](https://github.com/iabrahamus/Springboard/tree/main/Bayesian%20Optimization%20Case%20Study)|
+|Clustering_Case_Study|Customer segmentation using clustering|[Apply KMean clustering on dataset containing information on marketing newsletters/e-mail campaigns (offers sent to customers) and transactin level for customer segmentation](https://github.com/iabrahamus/Springboard/tree/main/Clustering_Case_Study_updated_10_15_2020)|
