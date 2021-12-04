@@ -16,7 +16,7 @@
 
 ---
 
-## Description
+## 1. Description
 
 **RR Diner Coffee** sells two types of things:
 
@@ -37,7 +37,7 @@ Now, RR Diner Coffee has a decision about whether to strike a deal with a legend
 
 So our job here is To build a decision tree to predict how many units of the Hidden Farm Chinese coffee will be purchased by RR Diner Coffee's most loyal customers.
 
-## Dataset
+## 2. Dataset
 The dataset consists of a survey of 710 of the most loyal RR Diner Coffee customers, collecting data on the customers':
 
 - age
@@ -63,14 +63,31 @@ This notebook uses decision trees to determine whether the factors of salary, ge
 - Load data
 - Explore the data
 
+**2. Cleaning, transforming and visualizing**
+- Cleaning the data
+- Train/test split
+  
+  
+**3. Modelling** 
+- Model 1: Entropy model - no max_depth
+- Model 2: Gini impurity model - no max_depth
+- Model 3: Entropy model - max depth 3
+- Model 4: Gini impurity model - max depth 3
+
+
+**4. Evaluating and concluding** 
+- How many customers will buy Hidden Farm coffee?
+- Decision
+
+**5. Random Forest** 
+- Import necessary modules
+- Model
+- Revise conclusion
+
+
 [Back To The Top](#decision-tree-speciality-coffee)
 
 ---
-
-[Back To The Top](#decision-tree-speciality-coffee)
-
----
-
 ## License
 
 MIT License
@@ -103,5 +120,3 @@ SOFTWARE.
 
 - LinkedIn - [ighebregziabher](https://www.linkedin.com/in/ighebregziabher)
 - Github - [iabrahamus](https://www.github.com/iabrahamus)
-
-[Back To The Top](#decision-tree-speciality-coffee)
